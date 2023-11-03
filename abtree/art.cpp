@@ -24,6 +24,7 @@
 #include <cstdlib> // free, posix_memalign
 #include <iomanip>
 #include <iostream>
+#include <limits>
 
 #include "miscellaneous.hpp"
 
